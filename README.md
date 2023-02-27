@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasalexneves
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 Python and JavaScript specialist
 - 💞️ I’m looking to collaborate on open source projects and technology companies.
 - 📫 How to reach me lucaslhneves@gmail.com
 
